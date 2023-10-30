@@ -1,4 +1,4 @@
-variable "resource_prefix" {
+/*variable "resource_prefix" {
     description = "The resource prefix"
 }
 
@@ -49,4 +49,4 @@ variable "sql_server_name" {
 
 variable "sql_database_name" {
     description = "The SQL Database name"
-}
+}*/
