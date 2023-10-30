@@ -1,4 +1,4 @@
-data "azurerm_subscription" "current" {
+/*data "azurerm_subscription" "current" {
 }
 
 data "azurerm_client_config" "current" {
@@ -195,4 +195,4 @@ resource "azurerm_sql_active_directory_administrator" "sql_database_administrato
     login               = "sqladmin"
     tenant_id           = data.azurerm_subscription.current.tenant_id
     object_id           = data.azurerm_client_config.current.object_id
-}
+}*/
